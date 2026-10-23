@@ -1,1 +1,4 @@
-# Gday Mate A mobile app for learning Australian and New Zealand slang through quizzes, challenges, and a searchable dictionary. ## Features - Free access to core content - Premium one-time purchase - Ad-free premium experience - Dictionary entries and definitions - Interactive quizzes ## Support For support and enquiries, contact: support@yourapp.com ## Privacy Policy See: https://yourusername.github.io/Gday-mate/privacy.html
+# Gday Mate 
+Gday Mate helps users learn Australian and New Zealand slang through quizzes and dictionary-style learning tools. 
+For support, contact: 
+support@yourapp.com
